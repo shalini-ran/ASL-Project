@@ -1,0 +1,4 @@
+#Tue Dec 06 15:55:14 PST 2016
+base.0=C\:\\Users\\Shalini\\Documents\\current classes\\ASL project\\EE368-Android-Samples-master\\Tutorial3\\ClientCode\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Shalini\\Documents\\current classes\\ASL project\\EE368-Android-Samples-master\\Tutorial3\\ClientCode\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

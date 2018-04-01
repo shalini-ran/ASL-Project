@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Mon Dec 05 22:52:31 PST 2016
+1.base=C\:\\Users\\Shalini\\Documents\\current classes\\ASL project\\EE368-Android-Samples-master\\Tutorial3\\ClientCode\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.file=C\:\\Users\\Shalini\\Documents\\current classes\\ASL project\\EE368-Android-Samples-master\\Tutorial3\\ClientCode\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+1.file=C\:\\Users\\Shalini\\Documents\\current classes\\ASL project\\EE368-Android-Samples-master\\Tutorial3\\ClientCode\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+4.set=ANDROID_RESOURCE
+2.base=C\:\\Users\\Shalini\\Documents\\current classes\\ASL project\\EE368-Android-Samples-master\\Tutorial3\\ClientCode\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\Shalini\\Documents\\current classes\\ASL project\\EE368-Android-Samples-master\\Tutorial3\\ClientCode\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+count=5
+1.set=DEX
+3.base=C\:\\Users\\Shalini\\Documents\\current classes\\ASL project\\EE368-Android-Samples-master\\Tutorial3\\ClientCode\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Shalini\\Documents\\current classes\\ASL project\\EE368-Android-Samples-master\\Tutorial3\\ClientCode\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Shalini\\Documents\\current classes\\ASL project\\EE368-Android-Samples-master\\Tutorial3\\ClientCode\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=C\:\\Users\\Shalini\\Documents\\current classes\\ASL project\\EE368-Android-Samples-master\\Tutorial3\\ClientCode\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+4.base=C\:\\Users\\Shalini\\Documents\\current classes\\ASL project\\EE368-Android-Samples-master\\Tutorial3\\ClientCode\\app\\build\\intermediates\\res\\resources-debug.ap_
